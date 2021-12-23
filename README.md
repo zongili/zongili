@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zongili
-- 👀 I have 18+ yrs professional experience
+- 👋 Hi, I’m Hulia, @zongili
+- 👀 I have 9+ years professional experience
 - 🌱 degrees in computer science, BSc, dbase analyst, business analyst & experience in s/w developer-designer, programmer, database analyst, database visualization 
-- 💞️ Currently I'm working in Python, Panda, Jupyter Notebook, VSCode, MongoDB, R, Hadoop, VBA scripting, JavaScript, SQL, leaflet.js, bootstrap, Tableau, dashboarding, fundamental statistics, machine learning.
+- 💞️ Currently I'm working in Python, Panda, Jupyter Notebook, JSON, VSCode, MongoDB, R, Hadoop, VBA scripting, JavaScript, SQL, leaflet.js, bootstrap, Tableau, dashboarding, fundamental statistics, machine learning.
 - 📫 You can email me at zongili@yahoo.ca
 
 <!---
